@@ -14,13 +14,13 @@
 
 
 
-- 👨‍💻 <h2 align="left">Professional Experience:</h2> 
+<h2 align="left"> 👨‍💻 Professional Experience:</h2> 
 **Identification of Crude Drug (Interdisciplinary Project - Team Leader)**
 **Surveillance System using IoT (Capstone Project)**
 **E-Commerce website (Individual Project)**
 
 
-- 👨‍💻 <h2 align="left">Successfully completed projects:</h2> 
+<h2 align="left">👨‍💻 Successfully completed projects:</h2> 
 - <h4 align="left">Identification of Crude Drug (Interdisciplinary Project - Team Leader)</h4>
 - <h4 align="left">Surveillance System using IoT (Capstone Project)</h4>
 - <h4 align="left">E-Commerce website (Individual Project)</h4>
