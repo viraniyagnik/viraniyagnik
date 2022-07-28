@@ -1,18 +1,22 @@
 <h1 align="center">Yagnik Virani</h1>
 <h3 align="center">Experienced Python Developer</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=viraniyagnik&label=Profile%20views&color=0e75b6&style=flat" alt="viraniyagnik" /> </p>
+
         
 <h3 align="left">Connect with me:</h3>
-<p align="left">**✆+1 (647) 916-5212** </p>
-<p align="left">**viraniyagnik2@gmail.com ** </p>
+**+1 (647)916-5212**       **viraniyagnik2@gmail.com** 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yagnik-virani-307a70226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yagnik-virani-307a70226/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yagnik-virani-307a70226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yagnik-virani-307a70226/" height="30" width="40" /></a>
 </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraniyagnik&label=Profile%20views&color=0e75b6&style=flat" alt="viraniyagnik" /> </p>
 
-
+- 👨‍💻 PROFESSIONAL EXPERIENCE,
+**Identification of Crude Drug (Interdisciplinary Project - Team Leader)**
+**Surveillance System using IoT (Capstone Project)**
+**E-Commerce website (Individual Project)**
 
 
 - 👨‍💻 Successfully completed projects,
