@@ -8,22 +8,31 @@
 <h4 align="left">+1 (647)916-5212</h4>
 <h4 align="left">viraniyagnik2@gmail.com</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/yagnik-virani-307a70226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yagnik-virani-307a70226/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yagnik-virani-307a70226/" target="blank"><img align="center"  alt="https://www.linkedin.com/in/yagnik-virani-307a70226/" height="30" width="40" /></a>
 </p>
 
 
 <h2 align="left"> 👨‍💻 Professional Experience:</h2> 
-<h4 align="left">Software Developer(Part-Time) (Webrefine Technology LLP - 💬January 2016 – November 2018)</h4>
-<h4 align="left">Python Developer Intern (Nexa Infotech IT Services Pvt. Ltd - 💬January 2019 – April 2019)</h4>
-<h4 align="left">Web Developer (Microcreative Website Design & Development - 💬May 2019 – June 2020)</h4>
-<h4 align="left">Peer Tutor (Cambrian College) - 💬September 2021 – December 2021)</h4>
+<h5 align="left">Software Developer(Part-Time) (Webrefine Technology LLP - 💬 January 2016 – November 2018)</h5>
+<h5 align="left">Python Developer Intern (Nexa Infotech IT Services Pvt. Ltd - 💬 January 2019 – April 2019)</h5>
+<h5 align="left">Web Developer (Microcreative Website Design & Development - 💬 May 2019 – June 2020)</h5>
+<h5 align="left">Peer Tutor (Cambrian College) - 💬 September 2021 – December 2021)</h5>
 
 
 
 <h2 align="left">👨‍💻 Successfully completed projects:</h2> 
-<h4 align="left">Identification of Crude Drug (Interdisciplinary Project - Team Leader)</h4>
-<h4 align="left">Surveillance System using IoT (Capstone Project)</h4>
-<h4 align="left">E-Commerce website (Individual Project)</h4>
+<h5 align="left">Surveillance System using IoT (Capstone Project - 💬 January 2022 – March 2022)</h5>
+<h5 align="left">Identification of Crude Drug (Interdisciplinary Project - Team Leader - 💬 June 2018 – December 2018)</h5>
+<h5 align="left">E-Commerce website (Individual Project - 💬 January 2018 – April 2018)</h5>
+
+
+<h2 align="left">👨‍💻 Education:</h2>
+<h5 align="left">Bachelor's in Information Technology (R.K. University ⚡ Rajkot, India - 💬 June 2015- May 2019 )</h5>
+<h5 align="left">Diploma in Computer programming - Internet of Things  (Cambrian College ⚡ Ontario, Canada - 💬 September 2020- April 2022)</h5>
+
+
+<h2 align="left">👨‍💻 Certifications:</h2>
+<h5 align="left">Bachelor's in Information Technology (R.K. University ⚡ Rajkot, India - 💬 June 2015- May 2019 )</h5>
 
 
 - 🌱 I’m currently learning **Machine Learning frameworks**
