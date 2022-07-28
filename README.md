@@ -28,11 +28,17 @@
 
 <h2 align="left">👨‍💻 Education:</h2>
 <h5 align="left">Bachelor's in Information Technology (R.K. University ⚡ Rajkot, India - 💬 June 2015- May 2019 )</h5>
+<p align="left">
+<a href="https://badges.wes.org/Evidence?i=45b754c9-bf3c-4d87-957a-cac60a757b18&type=ca/" target="blank"><img align="center"  alt="https://badges.wes.org/Evidence?i=45b754c9-bf3c-4d87-957a-cac60a757b18&type=ca/" height="30" width="40" /></a>
+</p>
 <h5 align="left">Diploma in Computer programming - Internet of Things  (Cambrian College ⚡ Ontario, Canada - 💬 September 2020- April 2022)</h5>
 
 
 <h2 align="left">👨‍💻 Certifications:</h2>
 <h5 align="left">Bachelor's in Information Technology (R.K. University ⚡ Rajkot, India - 💬 June 2015- May 2019 )</h5>
+<p align="left">
+<a href="https://triplebyte.com/tb/virani-yagnik-bsq6pia/certificate/" target="blank"><img align="center"  alt="https://triplebyte.com/tb/virani-yagnik-bsq6pia/certificate/" height="30" width="40" /></a>
+</p>
 
 
 - 🌱 I’m currently learning **Machine Learning frameworks**
