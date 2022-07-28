@@ -5,25 +5,25 @@
 
         
 <h2 align="left">Connect with me:</h2>
-<h3 align="left">+1 (647)916-5212</h3>
-<h3 align="left">viraniyagnik2@gmail.com</h3>
+<h4 align="left">+1 (647)916-5212</h4>
+<h4 align="left">viraniyagnik2@gmail.com</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/yagnik-virani-307a70226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yagnik-virani-307a70226/" height="30" width="40" /></a>
 </p>
 
 
-
-
 <h2 align="left"> 👨‍💻 Professional Experience:</h2> 
-**Identification of Crude Drug (Interdisciplinary Project - Team Leader)**
-**Surveillance System using IoT (Capstone Project)**
-**E-Commerce website (Individual Project)**
+<h4 align="left">Software Developer(Part-Time) (Webrefine Technology LLP - 💬January 2016 – November 2018)</h4>
+<h4 align="left">Python Developer Intern (Nexa Infotech IT Services Pvt. Ltd - 💬January 2019 – April 2019)</h4>
+<h4 align="left">Web Developer (Microcreative Website Design & Development - 💬May 2019 – June 2020)</h4>
+<h4 align="left">Peer Tutor (Cambrian College) - 💬September 2021 – December 2021)</h4>
+
 
 
 <h2 align="left">👨‍💻 Successfully completed projects:</h2> 
-- <h4 align="left">Identification of Crude Drug (Interdisciplinary Project - Team Leader)</h4>
-- <h4 align="left">Surveillance System using IoT (Capstone Project)</h4>
-- <h4 align="left">E-Commerce website (Individual Project)</h4>
+<h4 align="left">Identification of Crude Drug (Interdisciplinary Project - Team Leader)</h4>
+<h4 align="left">Surveillance System using IoT (Capstone Project)</h4>
+<h4 align="left">E-Commerce website (Individual Project)</h4>
 
 
 - 🌱 I’m currently learning **Machine Learning frameworks**
