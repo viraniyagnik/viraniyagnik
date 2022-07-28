@@ -1,10 +1,10 @@
 <h1 align="center">Yagnik Virani</h1>
-<h2 align="center">Experienced Python Developer</h2>
+<h3 align="center">Experienced Python Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=viraniyagnik&label=Profile%20views&color=0e75b6&style=flat" alt="viraniyagnik" /> </p>
 
         
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <h3 align="left">+1 (647)916-5212</h3>
 <h3 align="left">viraniyagnik2@gmail.com</h3>
 <p align="left">
@@ -14,16 +14,16 @@
 
 
 
-- 👨‍💻 Professional Experience,
+- 👨‍💻 <h2 align="left">Professional Experience:</h2> 
 **Identification of Crude Drug (Interdisciplinary Project - Team Leader)**
 **Surveillance System using IoT (Capstone Project)**
 **E-Commerce website (Individual Project)**
 
 
-- 👨‍💻 Successfully completed projects,
-- <h3 align="left">Identification of Crude Drug (Interdisciplinary Project - Team Leader)</h3>
-- <h3 align="left">Surveillance System using IoT (Capstone Project)</h3>
-- <h3 align="left">E-Commerce website (Individual Project)</h3>
+- 👨‍💻 <h2 align="left">Successfully completed projects:</h2> 
+- <h4 align="left">Identification of Crude Drug (Interdisciplinary Project - Team Leader)</h4>
+- <h4 align="left">Surveillance System using IoT (Capstone Project)</h4>
+- <h4 align="left">E-Commerce website (Individual Project)</h4>
 
 
 - 🌱 I’m currently learning **Machine Learning frameworks**
