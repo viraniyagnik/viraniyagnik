@@ -5,13 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viraniyagnik" alt="viraniyagnik" /></a> </p>
 
-- 🔭 I’m currently working on **Interdisciplinary Project (Team Leader) - Mobile Application for Identification of Crude Drug**
+- ![image](https://user-images.githubusercontent.com/77527826/181575765-386f3175-95ca-4c11-968c-a3affdcaa0d4.png)
+ Successfully completed projects,
+**Identification of Crude Drug (Interdisciplinary Project - Team Leader)**
+**Surveillance System using IoT (Capstone Project)**
+**E-Commerce website (Individual Project)**
 
 - 🌱 I’m currently learning **Machine Learning frameworks**
 
-- 👯 I’m looking to collaborate on **Capstone Project - Surveillance System using IoT**
+- 👯 I’m looking to collaborate on 
 
-- 🤝 I’m looking for help with **Individual Project - E-Commerce website**
+- 🤝 I’m looking for help with 
 
 - 👨‍💻 All of my projects are available at [https://github.com/viraniyagnik](https://github.com/viraniyagnik)
 
