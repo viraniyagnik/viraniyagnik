@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viraniyagnik" alt="viraniyagnik" /></a> </p>
 
-- ![image](https://user-images.githubusercontent.com/77527826/181575765-386f3175-95ca-4c11-968c-a3affdcaa0d4.png)
+- ![image](https://user-images.githubusercontent.com/77527826/181576001-56b23000-cbca-47d2-9e1e-594a442ca6fe.png)
+
  Successfully completed projects,
 **Identification of Crude Drug (Interdisciplinary Project - Team Leader)**
 **Surveillance System using IoT (Capstone Project)**
