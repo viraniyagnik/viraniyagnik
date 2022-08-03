@@ -72,7 +72,7 @@
 <h5 align="left">📄Python Program (Infosys campus Connect)</h5>
 <h5 align="left">📄CLA: Programming Essentials in C (C++ Institute)</h5>
 <h5 align="left">📄CCNA Routing and Switching (Cisco Networking Academy)</h5>
-<h5 align="left">📄C trainingC training (Indian Institute of Technology, Bombay) </h5>
+<h5 align="left">📄C training (Indian Institute of Technology, Bombay) </h5>
 <h5 align="left">📄Asia Pacific and Japan 2017 NetRiders CCENT (Cisco Networking Academy)</h5>
 <h5 align="left">📄HR Conference (Confederation of Indian Industry)</h5>
 <h5 align="left">📄Blind coding (Marwadi University)</h5>
