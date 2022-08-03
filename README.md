@@ -38,9 +38,9 @@
 <h2 align="left">👨‍💻 Skills include:</h2>
 <h5 align="left">📝Knowledge of front-end technologies (JavaScript, HTML, CSS) </h5>
 <h5 align="left">📝Understanding of code versioning tools (GitHub, Git) </h5>
-<h5 align="left">📝Strong database skills </h5>
+<h5 align="left">📝Strong database skills and familiarity with web services and REST API </h5>
 <h5 align="left">📝Proficient in software design algorithms and data structure </h5>
-<h5 align="left">📝Expertise in doing unit tests and code debugging</h5>
+<h5 align="left">📝Expertise in doing unit testing, code debugging, and extreme programming </h5>
 <h5 align="left">📝Practical knowledge of Raspberry Pi, Arduino, Machine Learning </h5>
 <h5 align="left">📝Curiosity and passion for constantly learning new things</h5>
 <h5 align="left">📝A mathematical person who likes to play with numbers</h5>
