@@ -13,8 +13,8 @@
 
 
 <h2 align="left"> 👨‍💻 Professional Experience:</h2> 
-<h5 align="left">Software Developer(Part-Time) (Webrefine Technology LLP)</h5>
-<h5 align="left">Python Developer Intern (Nexa Infotech IT Services Pvt. Ltd)</h5>
+<h5 align="left">Software Developer (Webrefine Technology LLP)</h5>
+<h5 align="left">Python Developer (Nexa Infotech IT Services Pvt. Ltd)</h5>
 <h5 align="left">Web Developer (Microcreative Website Design & Development)</h5>
 <h5 align="left">Peer Tutor (Cambrian College))</h5>
 
@@ -22,7 +22,7 @@
 
 <h2 align="left">👨‍💻 Successfully completed projects:</h2> 
 <h5 align="left">Surveillance System using IoT (Capstone Project)</h5>
-<h5 align="left">Identification of Crude Drug (Interdisciplinary Project - Team Leader)</h5>
+<h5 align="left">Crude Drug Identification (Interdisciplinary Project - Team Leader)</h5>
 <h5 align="left">E-Commerce website (Individual Project)</h5>
 
 
