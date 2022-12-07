@@ -6,7 +6,6 @@
         
 <h2 align="left">Connect with me:</h2>
 <h4 align="left">+1 (647)916-5212</h4>
-<h4 align="left">viraniyagnik2@gmail.com</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/yagnik-virani-307a70226/" target="blank"><img align="center"  alt="https://www.linkedin.com/in/yagnik-virani-307a70226/" height="30" width="40" /></a>
 </p>
