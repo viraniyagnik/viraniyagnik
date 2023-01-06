@@ -15,6 +15,7 @@
 <h5 align="left">Software Developer (Webrefine Technology LLP)</h5>
 <h5 align="left">Python Developer (Nexa Infotech IT Services Pvt. Ltd)</h5>
 <h5 align="left">Web Developer (Microcreative Website Design & Development)</h5>
+<h5 align="left">Administrative Assistant (Van Rehab Physiotherapy)</h5>
 <h5 align="left">Peer Tutor (Cambrian College))</h5>
 
 
@@ -35,15 +36,20 @@
 
 
 <h2 align="left">👨‍💻 Skills include:</h2>
-<h5 align="left">📝Knowledge of front-end technologies (JavaScript, HTML, CSS) </h5>
-<h5 align="left">📝Understanding of code versioning tools (GitHub, Git) </h5>
-<h5 align="left">📝Strong database skills and familiarity with web services and REST API </h5>
-<h5 align="left">📝Proficient in software design algorithms and data structure </h5>
-<h5 align="left">📝Expertise in doing unit testing, code debugging, and extreme programming </h5>
-<h5 align="left">📝Practical knowledge of Raspberry Pi, Arduino, Machine Learning </h5>
-<h5 align="left">📝Curiosity and passion for constantly learning new things</h5>
-<h5 align="left">📝A mathematical person who likes to play with numbers</h5>
-<h5 align="left">📝Analysing and processing a great variety of data, statistics, and information</h5>
+<h5 align="left">📝Experience in front-end technologies (JavaScript, HTML, CSS) </h5>
+<h5 align="left">📝Proficiency of code versioning tools (GitHub, Git) </h5>
+<h5 align="left">📝Strong database skills and Solid understanding and experience with SQL & ETL </h5>
+<h5 align="left">📝Proficient in software design algorithms and data structure  </h5>
+<h5 align="left">📝Expertise in doing unit testing, code debugging, and extreme programming  </h5>
+<h5 align="left">📝Experience in networking, CCNA certified </h5>
+<h5 align="left">📝Expert in Linux (Ubuntu, Debian, and Raspbian) and windows </h5>
+<h5 align="left">📝Strong knowledge of automated test tools and CI/CD </h5>
+<h5 align="left">📝Practical knowledge of Raspberry Pi, web services and REST API </h5>
+<h5 align="left">📝Highly proficient in Microsoft Office and advanced Excel skills experience with large dataset </h5>
+<h5 align="left">📝Curiosity and passion for constantly learning new things </h5>
+<h5 align="left">📝A mathematical person who likes to play with numbers </h5>
+<h5 align="left">📝Analysing and processing a great variety of data, statistics, and information </h5>
+
 
 
 <h2 align="left">💻 Programming Languages:</h2>
