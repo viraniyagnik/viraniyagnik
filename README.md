@@ -26,9 +26,7 @@ https://www.linkedin.com/in/yagnik-virani-307a70226/
 
 <h2 align="left">👨‍💻 Education:</h2>
 <h5 align="left">Bachelor's in Information Technology (R.K. University ⚡ Rajkot, India )</h5>
-<p align="left">
-<a href="https://badges.wes.org/Evidence?i=45b754c9-bf3c-4d87-957a-cac60a757b18&type=ca/" target="blank"><img align="center"  alt="https://badges.wes.org/Evidence?i=45b754c9-bf3c-4d87-957a-cac60a757b18&type=ca/" height="30" width="40" /></a>
-</p>
+https://badges.wes.org/Evidence?i=45b754c9-bf3c-4d87-957a-cac60a757b18&type=ca/
 <h5 align="left">Diploma in Computer programming - Internet of Things  (Cambrian College ⚡ Ontario, Canada)</h5>
 
 
