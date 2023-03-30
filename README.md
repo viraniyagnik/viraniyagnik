@@ -1,5 +1,5 @@
 <h1 align="center">Yagnik Virani</h1>
-<h3 align="center">Experienced Python Developer</h3>
+<h3 align="center">Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=viraniyagnik&label=Profile%20views&color=0e75b6&style=flat" alt="viraniyagnik" /> </p>
 
@@ -7,6 +7,7 @@
 <h2 align="left">Connect with me:</h2>
 <h4 align="left">+1 (647)916-5212</h4>
 <p align="left">
+        [[Linkedin](https://www.linkedin.com/in/yagnik-virani-307a70226/)]
 <a href="https://www.linkedin.com/in/yagnik-virani-307a70226/" target="blank"><img align="center"  alt="https://www.linkedin.com/in/yagnik-virani-307a70226/" height="30" width="40" /></a>
 </p>
 
