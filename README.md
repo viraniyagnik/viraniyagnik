@@ -69,10 +69,8 @@ https://badges.wes.org/Evidence?i=45b754c9-bf3c-4d87-957a-cac60a757b18&type=ca/
 <h5 align="left">📄PI DataLink: Basics (OSIsoft Learning)</h5>
 <h5 align="left">📄Introduction to IoT (Cisco Networking Academy)</h5>
 <h5 align="left">📄PI Web API from Beginner to Advanced (OSIsoft Learning)</h5>
+https://triplebyte.com/tb/virani-yagnik-bsq6pia/certificate/
 
-<p align="left">
-<a href="https://triplebyte.com/tb/virani-yagnik-bsq6pia/certificate/" target="blank"><img align="center"  alt="https://triplebyte.com/tb/virani-yagnik-bsq6pia/certificate/" height="30" width="40" /></a>
-</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/viraniyagnik](https://github.com/viraniyagnik)
 - 🌱 My blogs on [https://ideaofanythings.blogspot.com/](https://ideaofanythings.blogspot.com/)
