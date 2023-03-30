@@ -22,8 +22,8 @@ https://www.linkedin.com/in/yagnik-virani-307a70226/
 <h5 align="left">Surveillance System using IoT (Capstone Project)</h5>
 <h5 align="left">Crude Drug Identification (Interdisciplinary Project - Team Leader)</h5>
 <h5 align="left">E-Commerce website (Individual Project)</h5>
-**Cluster Monitor** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-viraniyagnik/tree/develop/linux_sql)]
-**Core Java Apps** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-viraniyagnik/tree/develop/core_java)]:
+<h5 align="left">Cluster Monitor (Individual Project)</h5>
+<h5 align="left">Core Java Apps (Individual Project)</h5>
 
 
 <h2 align="left">👨‍💻 Education:</h2>
