@@ -22,6 +22,8 @@ https://www.linkedin.com/in/yagnik-virani-307a70226/
 <h5 align="left">Surveillance System using IoT (Capstone Project)</h5>
 <h5 align="left">Crude Drug Identification (Interdisciplinary Project - Team Leader)</h5>
 <h5 align="left">E-Commerce website (Individual Project)</h5>
+**Cluster Monitor** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-viraniyagnik/tree/develop/linux_sql)]
+**Core Java Apps** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-viraniyagnik/tree/develop/core_java)]:
 
 
 <h2 align="left">👨‍💻 Education:</h2>
@@ -30,6 +32,13 @@ https://badges.wes.org/Evidence?i=45b754c9-bf3c-4d87-957a-cac60a757b18&type=ca/
 <h5 align="left">Diploma in Computer programming - Internet of Things  (Cambrian College ⚡ Ontario, Canada)</h5>
 
 
+## Skills
+
+**Proficient:** Python, Java, Networking, Linux/Bash, SQL/NoSQL, Agile/Scrum, Git/GitHub
+
+**Competent:** C/C++, Docker, REST APIs, AWS/Azure/GCP, Django, JavaScript, HTML/CSS, C#
+
+**Familiar:** Hadoop, Kubernetes, Jenkins, Scala, Node.js, Angular/React
 
 <h2 align="left">👨‍💻 Skills include:</h2>
 <h5 align="left">📝Experience in front-end technologies (JavaScript, HTML, CSS) </h5>
