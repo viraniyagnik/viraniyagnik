@@ -11,11 +11,10 @@ https://www.linkedin.com/in/yagnik-virani-307a70226/
 
 
 <h2 align="left"> 👨‍💻 Professional Experience:</h2> 
-<h5 align="left">Software Developer (Webrefine Technology LLP)</h5>
-<h5 align="left">Python Developer Intern (Nexa Infotech IT Services Pvt. Ltd)</h5>
-<h5 align="left">Web Developer (Microcreative Website Design & Development)</h5>
+<h5 align="left">Developer (CIBC)</h5>
 <h5 align="left">Peer Tutor (Cambrian College))</h5>
-
+<h5 align="left">Web Developer (Microcreative Website Design & Development)</h5>
+<h5 align="left">Python Developer Intern (Nexa Infotech IT Services Pvt. Ltd)</h5>
 
 
 <h2 align="left">👨‍💻 Successfully completed projects:</h2> 
